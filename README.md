@@ -17,7 +17,7 @@
 
 ###  Admin Features
 -  Admin Dashboard for catalog management
--  Add, ✏️ Edit, 🗑️ Delete products
+-  Add,  Edit, Delete products
 -  View all customer orders
 
 ---
